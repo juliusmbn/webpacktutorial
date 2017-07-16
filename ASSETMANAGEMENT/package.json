@@ -1,0 +1,23 @@
+{
+  "name": "ASSETMANAGEMENT",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "css-loader": "^0.28.4",
+    "style-loader": "^0.18.2"
+  },
+  "devDependencies": {
+    "csv-loader": "^2.1.1",
+    "file-loader": "^0.11.2",
+    "lodash": "^4.17.4",
+    "xml-loader": "^1.2.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
